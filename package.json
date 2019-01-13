@@ -1,0 +1,29 @@
+{
+  "name": "studywpack",
+  "version": "1.0.0",
+  "description": "webpack study",
+  "main": "index.js",
+  "scripts": {
+    "test": "test start",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjie2016/webpack4.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack4",
+    "js"
+  ],
+  "author": "449188650@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangjie2016/webpack4/issues"
+  },
+  "homepage": "https://github.com/huangjie2016/webpack4#readme",
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^3.2.1"
+  }
+}
